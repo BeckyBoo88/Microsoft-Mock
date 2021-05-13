@@ -25,5 +25,6 @@
 .bottomImage { 
     padding-top: 50px;
     text-align: center;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
 }
-
