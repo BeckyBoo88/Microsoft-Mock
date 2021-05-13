@@ -3,10 +3,18 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
 }
+
+.topMiddle {
+    margin-right: 200px;
+}
+
 #topFarRight {
-    margin-left: 100px;
+    margin-left: 150px;
+}
+
+#topRightEdge {
+    margin-right: 50px;
 }
 
 .centerImage {
@@ -19,11 +27,3 @@
     text-align: center;
 }
 
-
-
-/* .bottomText {
-    display: flex;
-    justify-content: center;
-    justify-content: space-around;
-    padding-right: 40px;
-} */
