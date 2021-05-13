@@ -12,23 +12,18 @@
 .centerImage {
     display: flex;
     justify-content: center;
-    padding-top: 75px;
-    width: 800px;
-    height: 400px;
-    margin-left: 200px;
 }
 
-.bottomImage {
-    display: flex;
-    justify-content: center;
-    justify-content: space-around;
-    padding: 2px;
-    margin-top: 30px;
+.bottomImage { 
+    padding-top: 50px;
+    text-align: center;
 }
 
-.bottomText {
+
+
+/* .bottomText {
     display: flex;
     justify-content: center;
     justify-content: space-around;
     padding-right: 40px;
-}
+} */
